@@ -5,9 +5,8 @@
   "description": "Modify PWM frequency on AVR (arduino) platform",
   "repository": {
     "type": "git",
-    "url": "https://github.com/terryjmyers/PWM.git"
+    "url": "https://github.com/jtojanen/PWM.git"
   },
   "frameworks": "arduino",
-  "platforms": "*"
+  "platforms": "atmelavr"
 }
-
